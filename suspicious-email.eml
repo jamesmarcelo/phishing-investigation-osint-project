@@ -1,0 +1,24 @@
+Return-Path: <bounce-daemon@cloud-host-xyz123.net>
+Received: from mail.cloud-host-xyz123.net (192.168.100.45) by inbound.yourcompany.com
+Authentication-Results: yourcompany.com; 
+    spf=fail (sender IP is 192.168.100.45) smtp.mailfrom=microsoft-support.com;
+    dkim=none (no signature);
+    dmarc=fail action=none header.from=microsoft-support.com;
+Date: Thu, 24 Sep 2026 10:45:12 -0400
+From: "IT Service Desk" <admin@microsoft-support.com>
+To: "James Marcelo" <james@yourcompany.com>
+Subject: ACTION REQUIRED: Your Microsoft 365 Password Expires in 24 Hours
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear James,</p>
+<p>Your Microsoft 365 corporate password is set to expire in exactly 24 hours.</p>
+<p>If you do not update your credentials, you will lose access to Teams, Outlook, and all corporate SharePoint drives.</p>
+<p>Please click the secure link below to keep your current password:</p>
+<p><a href="http://m365-update-login-portal.com/auth/login.php?user=james"><strong>RETAIN CURRENT PASSWORD</strong></a></p>
+<br>
+<p>Thank you,</p>
+<p>IT Security Administration</p>
+</body>
+</html>
