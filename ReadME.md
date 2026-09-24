@@ -1,4 +1,4 @@
-Phishing Investigation & OSINT Analysis
+## Phishing Investigation & OSINT Analysis
 
 ## Objective
 Triage a reported suspicious email, analyze email headers for spoofing, extract and defang Indicators of Compromise (IOCs), and perform OSINT research to determine a true positive/false positive verdict.
