@@ -1,4 +1,4 @@
-# SOC Analyst Project 2: Phishing Investigation & OSINT Analysis
+Phishing Investigation & OSINT Analysis
 
 ## Objective
 Triage a reported suspicious email, analyze email headers for spoofing, extract and defang Indicators of Compromise (IOCs), and perform OSINT research to determine a true positive/false positive verdict.
@@ -44,4 +44,4 @@ A user reported a suspicious email claiming their Microsoft 365 password was exp
 **Recommended Actions:**
 1. **Block:** Add `m365-update-login-portal.com` to the corporate firewall and DNS web filter blocklists.
 2. **Purge:** Perform an enterprise-wide message trace and purge this email from all other user inboxes.
-3. **User Education:** Notify the reporting user that this was a confirmed phishing attempt and commend them for reporting it to the SOC.
+3. **User Education:** Notify the reporting user that this was a confirmed phishing attempt and commend them for reporting it to the SOC.# phishing-investigation-osint-project
